@@ -1,6 +1,6 @@
 # IBM_internship_Project
 # AquaInsight 🌊🔍  
-AquaInsight is a lightweight Flask-based application that monitors and analyzes water quality using basic machine learning models. It features a clean front-end built with HTML, CSS, and JavaScript, making it perfect for local deployments, small-scale research projects, or academic use.
+AquaInsight is a lightweight Flask-based application that monitors and predict ground water level using basic machine learning models. It features a clean front-end built with HTML, CSS, and JavaScript, making it perfect for local deployments, small-scale research projects, or academic use.
 
 ---
 
